@@ -1,3 +1,7 @@
+#SIMPAN AKUN UTAMA KALIAN DI bima1 = LINE("Token")
+#Kalo Ada yang Lebih Kurangin,,, Kalo Ada yang Kurang Tambahin,,,!!!😅😅😅
+#MOGA BERMANFAAT#
+#Thank's For All Mastah,,,,,!!!
 # -*- coding: utf-8 -*- 
 from Bima.linepy import *
 from Bima.akad.ttypes import Message
@@ -12,7 +16,7 @@ from googletrans import Translator
 #==================================================================================================#
 botStart = time.time()
 #===============[Akun Utama]==========================================================================#
-bima = LINE("EBYdPeJBK9N3zcoqozjd.n4NBqtezXHi1HkIErwUrhq.xKbat6Jo12hDP3PhTYXHsAVHRVNXZZhE4a/Tv8tWARI=")
+bima = LINE("Token")
 #===============[Asist 1]==============================================================================#
 b1 = LINE("Token")
 #===============[Asist2]===============================================================================#
@@ -44,11 +48,11 @@ print ("==========[ Bima Login sukses ]===========")
 #====================================================================================================#
 poll = OEPoll(bima)
 call = (bima)
-baraya = ["u3789db413119c6123584a89e456b911d","ue1256f092267ec054bb4a5d62d2eedfe"]
-creator = ["u3789db413119c6123584a89e456b911d","ue1256f092267ec054bb4a5d62d2eedfe"]
-owner = ["u3789db413119c6123584a89e456b911d","ue1256f092267ec054bb4a5d62d2eedfe"]
-admin = ["u3789db413119c6123584a89e456b911d","ue1256f092267ec054bb4a5d62d2eedfe"]
-staff = ["u3789db413119c6123584a89e456b911d","ue1256f092267ec054bb4a5d62d2eedfe"]
+baraya = ["Mid_bima","ue1256f092267ec054bb4a5d62d2eedfe"]
+creator = ["Mid_bima","Mid_bima1"]
+owner = ["Mid_bima","Mid_bima1"]
+admin = ["Mid_bima","Mid_bima1"]
+staff = ["Mid_bima","Mid_bima1"]
 mid = bima.getProfile().mid
 Amid = b.getProfile().mid
 Bmid = b.getProfile().mid
