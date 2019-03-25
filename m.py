@@ -2,7 +2,7 @@
 #Kalo Ada yang Lebih Kurangin,,, Kalo Ada yang Kurang Tambahin,,,!!!😅😅😅
 #MOGA BERMANFAAT#
 #Thank's For All Mastah,,,,,!!!
-# -*- coding: utf-8 -*- 
+ -*- coding: utf-8 -*- 
 from Bima.linepy import *
 from Bima.akad.ttypes import Message
 from Bima.akad.ttypes import ContentType as Type
