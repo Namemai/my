@@ -16,33 +16,47 @@ from googletrans import Translator
 #==================================================================================================#
 botStart = time.time()
 #===============[Akun Utama]==========================================================================#
-bima = LINE("EDC81pm8ZVnYNI4ieWJ1.ybfPO53UOaxlbu9T86g/aq.szkTPMaXNy2eyh9XmfAKnlf3T6mVdLUbL6ddEb9KngE")
+bima = LINE("EDiASmEQnNTkladJ1MZ5.XM5fib0weUTm57oOA6XgHq.69rM0v/pBp+ugzVrAyiJkFm2xG/DcIrOwmPEODhpsAg")
+bima.log("Auth Token : " + str(bima.authToken))
 #===============[Asist 1]==============================================================================#
 b1 = LINE("EDhjeRcM120AwpWqqul4.+0VwFLVgQ2j2cX+3JyNF5a.9VKM7a7Q2e9RO4qmcalJjQtCYRNNnZiwG61izrNOn5w")
+b1.log("Auth Token : " + str(b1.authToken))
 #===============[Asist2]===============================================================================#
 b2 = LINE("EDuhWu7c1NCfdlwFOKB6.xBAEeq5CEKAfHgmSzhk7zG.cbPwmFJbNojFPbMsJ2wPAJb5EbHzeSYhmPgIP+o0VOo")
+b2.log("Auth Token : " + str(b2.authToken))
 #===============[Asist3]===============================================================================#
 b3 = LINE("EDBtbzvA6Xb3DgpGS4Na.F/033Vty47ZVwBhORXhAoG.zi2K2fsFgkBLTEb6VSyvC8Gm6jOAoG4baVXZrsfJ2f0")
+b3.log("Auth Token : " + str(b3.authToken))
 #===============[Asist 4]===============================================================================#
 b4 = LINE("EDo4wKQpCms7br7gwJu2.iFiwAtxjMF5fdoxQwQqMuG.8p8Zg27Oe2Rr2cGlPaGqBKkIH/El5B33vVCcwx5j15w")
+b4.log("Auth Token : " + str(b4.authToken))
 #===============[Asist 5]===============================================================================#
 b5 = LINE("EDRhO0VsXAwNVkpVx8j5.jZLwNsJF0dLY/sVeui1BLq.EIWDWE8x3e3US3l4N2GxmG1djHtkplgcXBKKipLWd60")
+b5.log("Auth Token : " + str(b5.authToken))
 #===============[Asist 6]===============================================================================#
 b6 = LINE("ED0dEa3ReFvB3HzhwlS0.4joXktOiD5sMDqP3TEW5Ka.moAssNi6qB4ynEzMcVsEBykXez4MXcVeUWq2g6lf63A")
+b6.log("Auth Token : " + str(b6.authToken))
 #===============[Asist 7]===============================================================================#
 b7 = LINE("EDk8mK1SNWfFvMmDOEya.z1BLPUXch76fSXC9ldkHAG./t3q7uipD54S+IjYPZomoSNXOGKvAsJtRBxZwaywIJQ")
+b7.log("Auth Token : " + str(b7.authToken))
 #===============[Asist 8]===============================================================================#
 b8 = LINE("EDSRsgGbQTO1zJo44dP6.P0DywLibVMEvA1w8+MyKzG.ZEgxXGtgWM0vKLE6NFije2mFFjyiNpJ8kMC9RwscJYY")
+b8.log("Auth Token : " + str(b8.authToken))
 #===============[Asist 9]===============================================================================#
 b9 = LINE("EDVw2pACOl72hHeMEvfb.jsVVBl6s1wGGAmAWEJzz2W.dInFa4SlSbb1LReWAbqgLeVqkf9v4I57Cng5tz/iHvQ")
+b9.log("Auth Token : " + str(b9.authToken))
 #===============[BackupQr]=============================================================================#
 bima1 = LINE("EDmZiXCiVV1cSegX6FJ2.LXYsXPKv919TqN1yc47NOG.CtHUlsBBgdQ6Cfr3f9PIk2gvEFy1yn+2jiz1f1Lr5L0")
+bima1.log("Auth Token : " + str(bima1.authToken))
 #===============[Pendingan/AntiJs]======================================================================#
 bima2 = LINE("EDMI0aMhlyfwUi8kKJF8.r4o5B2rVFUt3ErkQ8VWwYa.hO317CwxNho7at8Z7RwaY4myG2FZ88Ps5fqbOV4e/D8")
+bima2.log("Auth Token : " + str(bima2.authToken))
 #===============[Ghost]================================================================================#
 bima3 = LINE("EDtMCBqgwzGAIx7vSzz7.MNDJ+FLNS0xznCFGA2mQ1W.0kJp7qxkBBtiAkIiJz0AXTMOcss24VJPYL6VRLEdnbg")
+bima3.log("Auth Token : " + str(bima3.authToken))
 #===============[Ghost]================================================================================#
 bima4 = LINE("ED6erwwDBiMtPV1dQKWa.jTu0+5v1OGKIsdsVwe3CwG.EhWI5dqcP/01RxPSpGKN9jcDjWNHrAmD9alT5Iv9X4M")
+bima4.log("Auth Token : " + str(bima4.authToken))
 #====================================================================================================#
 print ("==========[ Bima Login sukses ]===========")
 #====================================================================================================#
