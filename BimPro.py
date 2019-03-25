@@ -16,43 +16,43 @@ from googletrans import Translator
 #==================================================================================================#
 botStart = time.time()
 #===============[Akun Utama]==========================================================================#
-bima = LINE("Token")
+bima = LINE("EDiASmEQnNTkladJ1MZ5.XM5fib0weUTm57oOA6XgHq.69rM0v/pBp+ugzVrAyiJkFm2xG/DcIrOwmPEODhpsAg")
 #===============[Asist 1]==============================================================================#
-b1 = LINE("Token")
+b1 = LINE("EDhjeRcM120AwpWqqul4.+0VwFLVgQ2j2cX+3JyNF5a.9VKM7a7Q2e9RO4qmcalJjQtCYRNNnZiwG61izrNOn5w")
 #===============[Asist2]===============================================================================#
-b2 = LINE("Token")
+b2 = LINE("EDuhWu7c1NCfdlwFOKB6.xBAEeq5CEKAfHgmSzhk7zG.cbPwmFJbNojFPbMsJ2wPAJb5EbHzeSYhmPgIP+o0VOo")
 #===============[Asist3]===============================================================================#
-b3 = LINE("Token")
+b3 = LINE("EDBtbzvA6Xb3DgpGS4Na.F/033Vty47ZVwBhORXhAoG.zi2K2fsFgkBLTEb6VSyvC8Gm6jOAoG4baVXZrsfJ2f0")
 #===============[Asist 4]===============================================================================#
-b4 = LINE("Token")
+b4 = LINE("EDo4wKQpCms7br7gwJu2.iFiwAtxjMF5fdoxQwQqMuG.8p8Zg27Oe2Rr2cGlPaGqBKkIH/El5B33vVCcwx5j15w")
 #===============[Asist 5]===============================================================================#
-b5 = LINE("Token")
+b5 = LINE("EDRhO0VsXAwNVkpVx8j5.jZLwNsJF0dLY/sVeui1BLq.EIWDWE8x3e3US3l4N2GxmG1djHtkplgcXBKKipLWd60")
 #===============[Asist 6]===============================================================================#
-b6 = LINE("Token")
+b6 = LINE("ED0dEa3ReFvB3HzhwlS0.4joXktOiD5sMDqP3TEW5Ka.moAssNi6qB4ynEzMcVsEBykXez4MXcVeUWq2g6lf63A")
 #===============[Asist 7]===============================================================================#
-b7 = LINE("Token")
+b7 = LINE("EDk8mK1SNWfFvMmDOEya.z1BLPUXch76fSXC9ldkHAG./t3q7uipD54S+IjYPZomoSNXOGKvAsJtRBxZwaywIJQ")
 #===============[Asist 8]===============================================================================#
-b8 = LINE("Token")
+b8 = LINE("EDSRsgGbQTO1zJo44dP6.P0DywLibVMEvA1w8+MyKzG.ZEgxXGtgWM0vKLE6NFije2mFFjyiNpJ8kMC9RwscJYY")
 #===============[Asist 9]===============================================================================#
-b9 = LINE("Token")
+b9 = LINE("EDVw2pACOl72hHeMEvfb.jsVVBl6s1wGGAmAWEJzz2W.dInFa4SlSbb1LReWAbqgLeVqkf9v4I57Cng5tz/iHvQ")
 #===============[BackupQr]=============================================================================#
-bima1 = LINE("Token")
+bima1 = LINE("EDmZiXCiVV1cSegX6FJ2.LXYsXPKv919TqN1yc47NOG.CtHUlsBBgdQ6Cfr3f9PIk2gvEFy1yn+2jiz1f1Lr5L0")
 #===============[Pendingan/AntiJs]======================================================================#
-bima2 = LINE("Token")
+bima2 = LINE("EDMI0aMhlyfwUi8kKJF8.r4o5B2rVFUt3ErkQ8VWwYa.hO317CwxNho7at8Z7RwaY4myG2FZ88Ps5fqbOV4e/D8")
 #===============[Ghost]================================================================================#
-bima3 = LINE("Token")
+bima3 = LINE("EDtMCBqgwzGAIx7vSzz7.MNDJ+FLNS0xznCFGA2mQ1W.0kJp7qxkBBtiAkIiJz0AXTMOcss24VJPYL6VRLEdnbg")
 #===============[Ghost]================================================================================#
-bima4 = LINE("Token")
+bima4 = LINE("ED6erwwDBiMtPV1dQKWa.jTu0+5v1OGKIsdsVwe3CwG.EhWI5dqcP/01RxPSpGKN9jcDjWNHrAmD9alT5Iv9X4M")
 #====================================================================================================#
 print ("==========[ Bima Login sukses ]===========")
 #====================================================================================================#
 poll = OEPoll(bima)
 call = (bima)
-baraya = ["Mid_bima","ue1256f092267ec054bb4a5d62d2eedfe"]
-creator = ["Mid_bima","Mid_bima1"]
-owner = ["Mid_bima","Mid_bima1"]
-admin = ["Mid_bima","Mid_bima1"]
-staff = ["Mid_bima","Mid_bima1"]
+baraya = ["uc66e45201d1612eb4ce7b3a86bac4685"]
+creator = ["uc66e45201d1612eb4ce7b3a86bac4685"]
+owner = ["uc66e45201d1612eb4ce7b3a86bac4685"]
+admin = ["uc66e45201d1612eb4ce7b3a86bac4685"]
+staff = ["uc66e45201d1612eb4ce7b3a86bac4685"]
 mid = bima.getProfile().mid
 Amid = b.getProfile().mid
 Bmid = b.getProfile().mid
@@ -156,8 +156,8 @@ wait = {
     "mention":"Sini Nikung Bareng Sama Kami,,,,,,!!!",
     "Respontag":"Maaf Orang Nya Sibuk Nikung,,,,,,,!!!",
     "welcome":"Selamat datang & betah",
-    "comment":"Like like & like by 􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴ ",
-    "message":"T̸͟͞e̸͟͞r̸͟͞i̸͟͞m̸͟͞a̸͟͞ k̸͟͞a̸͟͞s̸͟͞i̸͟͞h̸͟͞ t̸͟͞e̸͟͞l̸͟͞a̸͟͞h̸͟͞ a̸͟͞d̸͟͞d̸͟͞   😃\n☆|􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴ ☆\n\nOpen Tikungan:\n┃🇮🇩┃ 1 hari 1000c\n┃🇮🇩┃ 1 minggu 2 juta 😁\n\nMinat?\nChat aja...!!!!\nCreator:\nhttps://line.me/ti/p/Dr8B9wDicC",
+    "comment":"Like like & like by mai ",
+    "message":"mai",
     }
 
 read = {
@@ -563,56 +563,46 @@ def bot(op):
                     if op.param2 not in Bots and op.param2 not in owner and op.param2 not in admin and op.param2 not in staff:
                         bima.acceptGroupInvitation(op.param1)
                         ginfo = bima.getGroup(op.param1)
-                        bima.sendMessage(op.param1,"Maaf Anda Bukan Admin Bot 􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴/nSelamat Tinggal\n Group " +str(ginfo.name))
                         bima.leaveGroup(op.param1)
                     else:
                         bima.acceptGroupInvitation(op.param1)
                         ginfo = bima.getGroup(op.param1)
-                        bima.sendMessage(op.param1,"Hai " + str(ginfo.name))
             if Amid in op.param3:
                 if wait["autoLeave"] == True:
                     if op.param2 not in Bots and op.param2 not in owner and op.param2 not in admin and op.param2 not in staff:
                         b1.acceptGroupInvitation(op.param1)
                         ginfo = b1.getGroup(op.param1)
-                        b1.sendMessage(op.param1,"Maaf Anda Bukan Admin Bot 􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴/nSelamat Tinggal\n Group " +str(ginfo.name))
                         b1.leaveGroup(op.param1)
                     else:
                         b1.acceptGroupInvitation(op.param1)
                         ginfo = b1.getGroup(op.param1)
-                        b1.sendMessage(op.param1,"Hai " + str(ginfo.name))
             if Bmid in op.param3:
                 if wait["autoLeave"] == True:
                     if op.param2 not in Bots and op.param2 not in owner and op.param2 not in admin and op.param2 not in staff:
                         b2.acceptGroupInvitation(op.param1)
                         ginfo = b2.getGroup(op.param1)
-                        b2.sendMessage(op.param1,"Maaf Anda Bukan Admin Bot 􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴/nSelamat Tinggal\n Group " +str(ginfo.name))
                         b2.leaveGroup(op.param1)
                     else:
                         b2.acceptGroupInvitation(op.param1)
                         ginfo = b2.getGroup(op.param1)
-                        b2.sendMessage(op.param1,"Hai " + str(ginfo.name))
             if Cmid in op.param3:
                 if wait["autoLeave"] == True:
                     if op.param2 not in Bots and op.param2 not in owner and op.param2 not in admin and op.param2 not in staff:
                         b3.acceptGroupInvitation(op.param1)
                         ginfo = b3.getGroup(op.param1)
-                        b3.sendMessage(op.param1,"Maaf Anda Bukan Admin Bot 􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴/nSelamat Tinggal\n Group " +str(ginfo.name))
                         b3.leaveGroup(op.param1)
                     else:
                         b3.acceptGroupInvitation(op.param1)
                         ginfo = b3.getGroup(op.param1)
-                        b3.sendMessage(op.param1,"Hai " + str(ginfo.name))
             if Dmid in op.param3:
                 if wait["autoLeave"] == True:
                     if op.param2 not in Bots and op.param2 not in owner and op.param2 not in admin and op.param2 not in staff:
                         b4.acceptGroupInvitation(op.param1)
                         ginfo = b4.getGroup(op.param1)
-                        b4.sendMessage(op.param1,"Maaf Anda Bukan Admin Bot 􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴/nSelamat Tinggal\n Group " +str(ginfo.name))
                         b4.leaveGroup(op.param1)
                     else:
                         b4.acceptGroupInvitation(op.param1)
                         ginfo = b4.getGroup(op.param1)
-                        b4.sendMessage(op.param1,"Hai " + str(ginfo.name))
             if Emid in op.param3:
                 if wait["autoLeave"] == True:
                     if op.param2 not in Bots and op.param2 not in owner and op.param2 not in admin and op.param2 not in staff:
@@ -629,56 +619,46 @@ def bot(op):
                     if op.param2 not in Bots and op.param2 not in owner and op.param2 not in admin and op.param2 not in staff:
                         b6.acceptGroupInvitation(op.param1)
                         ginfo = b6.getGroup(op.param1)
-                        b6.sendMessage(op.param1,"Maaf Anda Bukan Admin Bot 􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴/nSelamat Tinggal\n Group " +str(ginfo.name))
                         b6.leaveGroup(op.param1)
                     else:
                         b6.acceptGroupInvitation(op.param1)
                         ginfo = b6.getGroup(op.param1)
-                        b6.sendMessage(op.param1,"Hai " + str(ginfo.name))
             if Gmid in op.param3:
                 if wait["autoLeave"] == True:
                     if op.param2 not in Bots and op.param2 not in owner and op.param2 not in admin and op.param2 not in staff:
                         b7.acceptGroupInvitation(op.param1)
                         ginfo = b7.getGroup(op.param1)
-                        b7.sendMessage(op.param1,"Maaf Anda Bukan Admin Bot 􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴/nSelamat Tinggal\n Group " +str(ginfo.name))
                         b7.leaveGroup(op.param1)
                     else:
                         b7.acceptGroupInvitation(op.param1)
                         ginfo = b7.getGroup(op.param1)
-                        b7.sendMessage(op.param1,"Hai " + str(ginfo.name))
             if Hmid in op.param3:
                 if wait["autoLeave"] == True:
                     if op.param2 not in Bots and op.param2 not in owner and op.param2 not in admin and op.param2 not in staff:
                         b8.acceptGroupInvitation(op.param1)
                         ginfo = b8.getGroup(op.param1)
-                        b8.sendMessage(op.param1,"Maaf Anda Bukan Admin Bot 􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴/nSelamat Tinggal\n Group " +str(ginfo.name))
                         b8.leaveGroup(op.param1)
                     else:
                         b8.acceptGroupInvitation(op.param1)
                         ginfo = b8.getGroup(op.param1)
-                        b8.sendMessage(op.param1,"Hai " + str(ginfo.name))
             if Imid in op.param3:
                 if wait["autoLeave"] == True:
                     if op.param2 not in Bots and op.param2 not in owner and op.param2 not in admin and op.param2 not in staff:
                         b9.acceptGroupInvitation(op.param1)
                         ginfo = b9.getGroup(op.param1)
-                        b9.sendMessage(op.param1,"Maaf Anda Bukan Admin Bot 􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴/nSelamat Tinggal\n Group " +str(ginfo.name))
                         b9.leaveGroup(op.param1)
                     else:
                         b9.acceptGroupInvitation(op.param1)
                         ginfo = b9.getGroup(op.param1)
-                        b9.sendMessage(op.param1,"Hai " + str(ginfo.name))
             if Zmid in op.param3:
                 if wait["autoLeave"] == True:
                     if op.param2 not in Bots and op.param2 not in owner and op.param2 not in admin and op.param2 not in staff:
                         bima1.acceptGroupInvitation(op.param1)
                         ginfo = bima1.getGroup(op.param1)
-                        bima1.sendMessage(op.param1,"Maaf Anda Bukan Admin Bot 􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴/nSelamat Tinggal\n Group " +str(ginfo.name))
                         bima1.leaveGroup(op.param1)
                     else:
                         bima1.acceptGroupInvitation(op.param1)
                         ginfo = bima1.getGroup(op.param1)
-                        bima1.sendMessage(op.param1,"Hai " + str(ginfo.name))
 
         if op.type == 17:
             if op.param1 in welcome:
@@ -3733,7 +3713,7 @@ def bot(op):
                                 except:
                                     pass
 
-                        elif cmd == "bimall":
+                        elif cmd == "in":
                           if wait["selfbot"] == True:
                             if msg._from in admin:                                
                                 G = bima.getGroup(msg.to)
@@ -3759,11 +3739,10 @@ def bot(op):
                                 bima1.inviteIntoGroup(msg.to, [Zmid])
                                 
 
-                        elif cmd == "byeall":
+                        elif cmd == "out":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 G = bima.getGroup(msg.to)
-                                bima1.sendText(msg.to, "☠Baraya Pulang,,,,,,!!! "+str(G.name))
                                 b1.leaveGroup(msg.to)
                                 b2.leaveGroup(msg.to)
                                 b3.leaveGroup(msg.to)
@@ -3773,8 +3752,7 @@ def bot(op):
                                 b7.leaveGroup(msg.to)
                                 b8.leaveGroup(msg.to)
                                 b9.leaveGroup(msg.to)
-                                bima1.sendText(msg.to, "☠Pasukan Udah Pulang,,,,,,!!!\n☠Aim Pamit Stah,,,,,,!!! ")
-                                bima.leaveGroup(msg.to)
+                                bima1.leaveGroup(msg.to)
                                 
                         elif cmd == "byeme":
                           if wait["selfbot"] == True:
@@ -3783,7 +3761,7 @@ def bot(op):
                                 bima.sendText(msg.to, "☠Aim Pamit Stah,,,,,,!!! "+str(G.name))
                                 bima.leaveGroup(msg.to)
                         
-                        elif cmd == "bim join":
+                        elif cmd == "in m":
                             if msg._from in admin:
                                 G = bima.getGroup(msg.to)
                                 ginfo = bima.getGroup(msg.to)
@@ -3800,7 +3778,7 @@ def bot(op):
                                 G.preventedJoinByTicket = True
                                 bima4.updateGroup(G)
 
-                        elif cmd == "bim bye":
+                        elif cmd == "out m":
                             if msg._from in admin:
                                 G = bima.getGroup(msg.to)
                                 bima2.leaveGroup(msg.to)
@@ -3821,7 +3799,7 @@ def bot(op):
                                 get_contact_time = time.time() - get_contact_time_start
                                 bima.sendMessage(msg.to, "┃🔥┃ ┃􀠁􀠁!!ᵀᴱᴬᴹᴃᴀƦ͞ᴀ͞ʏ͞ᴀ᮴᮴᮴┃ Speed respon\n\n - Get Profile\n   %.10f\n - Get Contact\n   %.10f\n - Get Group\n   %.10f" % (get_profile_time/3,get_contact_time/3,get_group_time/3))
 
-                        elif cmd == "speed" or cmd == "spall":
+                        elif cmd == "speed" or cmd == "sp":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                start = time.time()
