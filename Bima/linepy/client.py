@@ -19,7 +19,7 @@ class LINE(Auth, Models, Talk, Square, Call, Timeline):
         elif idOrAuthToken and not passwd:
             self.loginWithAuthToken(authToken=idOrAuthToken, appName=appName)
 
-        self.__initAll()
+            self.__initAll()
 
     def __initAll(self):
 
