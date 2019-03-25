@@ -2,7 +2,7 @@
 #Kalo Ada yang Lebih Kurangin,,, Kalo Ada yang Kurang Tambahin,,,!!!😅😅😅
 #MOGA BERMANFAAT#
 #Thank's For All Mastah,,,,,!!!
- -*- coding: utf-8 -*- 
+# -*- coding: utf-8 -*- 
 from Bima.linepy import *
 from Bima.akad.ttypes import Message
 from Bima.akad.ttypes import ContentType as Type
@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 from humanfriendly import format_timespan, format_size, format_number, format_length
 import time, random, sys, json, codecs, threading, glob, re, string, os, requests, subprocess, six, ast, pytz, urllib, urllib.parse
 from gtts import gTTS
-from googletrans import Translator
+#from googletrans import Translator
 #==================================================================================================#
 botStart = time.time()
 #===============[Akun Utama]==========================================================================#
