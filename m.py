@@ -16,7 +16,7 @@ from googletrans import Translator
 #==================================================================================================#
 botStart = time.time()
 #===============[Akun Utama]==========================================================================#
-bima = LINE("EDLGJTk3NDpy0RWcfhf2.BRrxvqP6LElPZAdVnSSZCG.Wg5AzUqLNTA6Yi8C5BmxRge4hFS3yQ98xr8tmOvXSkM")
+bima = LINE("EDC81pm8ZVnYNI4ieWJ1.ybfPO53UOaxlbu9T86g/aq.szkTPMaXNy2eyh9XmfAKnlf3T6mVdLUbL6ddEb9KngE")
 #===============[Asist 1]==============================================================================#
 b1 = LINE("EDhjeRcM120AwpWqqul4.+0VwFLVgQ2j2cX+3JyNF5a.9VKM7a7Q2e9RO4qmcalJjQtCYRNNnZiwG61izrNOn5w")
 #===============[Asist2]===============================================================================#
